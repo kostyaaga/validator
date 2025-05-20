@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "kostyaaga\\Validator\\Core": "src/Core"
+      "kostyaaga\\Validator\\Core\\": "src/Core"
     }
   }
 
